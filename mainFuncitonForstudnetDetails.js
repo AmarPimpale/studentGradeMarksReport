@@ -21,8 +21,7 @@ console.log("create student Grade Report for creating report fill student detail
                     stdFunction.enterMarks(choice, studentInstance);
                    
                   } else if(choice==2){
-                    //   console.log("Grade is calculatiig");
-                    //   studentInstance.calculateGrade();
+                
                       console.log("report displying ....");
                       studentInstance.displayReport();
                       rl.rl1.close()

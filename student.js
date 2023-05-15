@@ -65,13 +65,7 @@ export class Student{
 
 }
 
-// const stu1 = new Student("Amar","Pimpale",44)
-// stu1.addSubjectMarks("Marathi",60)
-// stu1.addSubjectMarks("English",63)
-// stu1.addSubjectMarks("Science",63)  
-// stu1.calculateGrade()
 
-// stu1.displayReport()
 
 
 
